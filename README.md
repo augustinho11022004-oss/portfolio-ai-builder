@@ -1,7 +1,7 @@
 # Portfólio de Automação, Dados & Inteligência Artificial
 **Carlos Augusto Almeida Gomes**  
 Graduando em Engenharia de Produção — CEFET-RJ (Previsão de formatura: Dez/2027)  
-Rio de Janeiro, RJ | [LinkedIn](linkedin.com/in/carlosaugusto2025) | augusto.gomes1291@gmail.com
+Rio de Janeiro, RJ | [[LinkedIn](https://www.linkedin.com/in/carlosaugusto2025)| augusto.gomes1291@gmail.com
 
 ---
 
